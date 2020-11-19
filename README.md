@@ -1,2 +1,3 @@
-# bloxs-api
-Samples for the Bloxs API on bloxs.io
+# Bloxs API
+Samples for the Bloxs API.
+Full documentation and Swagger definitions can be found on [bloxs.io](https://www.bloxs.io)
